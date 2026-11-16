@@ -28,10 +28,12 @@ Requires **Python 3.12** (TensorFlow does not yet support newer versions) and gi
    ```bash
    pip install -r requirements.txt
    ```
-4. Download the datasets (PlantVillage needs a free Kaggle account; place your
-   API token in `~/.kaggle/kaggle.json`):
+4. 4. Download the datasets (about 1.6 GB):
    ```bash
    python src/download_data.py
+   ```
+   If Kaggle ever asks you to sign in, create a free Kaggle account and place
+   your API token in `~/.kaggle/kaggle.json`.
    ```
 5. _TODO: launch the demo app_
 
