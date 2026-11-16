@@ -3,4 +3,4 @@ pandas
 matplotlib
 pillow
 scikit-learn
-ipykernel
+ipykerneltensorflow
