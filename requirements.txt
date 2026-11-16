@@ -1,0 +1,6 @@
+kagglehub
+pandas
+matplotlib
+pillow
+scikit-learn
+ipykerneltensorflow
